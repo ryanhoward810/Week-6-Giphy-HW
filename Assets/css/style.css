@@ -1,0 +1,76 @@
+body {
+    background: url("../images/tv.jpg");
+    background-repeat: no-repeat;
+    background-image: center;
+    background-position: 50% -55%;
+    background-color: black;
+}
+
+img {
+    max-height: 150px;
+}
+
+form {
+    background-color:   #4169E1;
+    color: black; 
+    text-align: center;
+    margin-top: 25px;
+    border: 2px solid white;
+
+}
+
+.showBtn {
+    background-color:   #4169E1;
+    color: white;
+  /*  border-top: 1px solid white;
+    border-bottom: 1px solid white;*/  
+}
+
+form {
+    padding: 10px;
+}
+
+#newShowInput {
+    color: black;
+}
+
+.ratingStyle {
+    color: black;
+    background-color: #4169E1;
+    font-weight: bold;
+    border: 2px solid white;
+}
+
+#addShow {
+    background-color: white;
+    color: #474747;
+    border: none;
+}
+
+input {
+    margin: 10px;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+#TVButtons {
+    margin: 10px;
+}
+
+.showBtn {
+    padding: 6px;
+    margin: 3px;
+}
+
+#giphyLogo {
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+
+
+}
